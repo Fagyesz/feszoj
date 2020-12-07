@@ -1,2 +1,0 @@
-# feszoj
-feszoj meleg
